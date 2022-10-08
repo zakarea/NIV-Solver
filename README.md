@@ -1,4 +1,5 @@
-# Android-Nesting-Intents
+# NIV-Solver:
+Solve next-intent vulnerability on Android source code.
 
 ![Build](https://github.com/zakarea/Android-Nesting-Intents/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
