@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: unzipped.com.jetbrains.plugins:webp:unzipped.com.jetbrains.plugins:ideaIC-IC-213.7172.25-withSources">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/213.7172.25/5f40ccb79bdc6dd8a8cf06560da915d22badee94/ideaIC-213.7172.25/plugins/webp/lib/webp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.intellij.idea/ideaIC/213.7172.25/faa3e29dfa0257aa563c7c070b2e180a8cc5360b/ideaIC-213.7172.25-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

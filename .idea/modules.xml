@@ -2,7 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/NIV-Solver.iml" filepath="$PROJECT_DIR$/.idea/NIV-Solver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-Nesting-Intents.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-Nesting-Intents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-Nesting-Intents.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-Nesting-Intents.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android-Nesting-Intents.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Android-Nesting-Intents.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NIS.iml" filepath="$PROJECT_DIR$/.idea/modules/NIS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NIS.main.iml" filepath="$PROJECT_DIR$/.idea/modules/NIS.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NIS.test.iml" filepath="$PROJECT_DIR$/.idea/modules/NIS.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NIV_Android_inspection.iml" filepath="$PROJECT_DIR$/.idea/modules/NIV_Android_inspection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NIV_Android_inspection.main.iml" filepath="$PROJECT_DIR$/.idea/modules/NIV_Android_inspection.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/NIV_Android_inspection.test.iml" filepath="$PROJECT_DIR$/.idea/modules/NIV_Android_inspection.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspection_basics.iml" filepath="$PROJECT_DIR$/.idea/modules/inspection_basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspection_basics.main.iml" filepath="$PROJECT_DIR$/.idea/modules/inspection_basics.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/inspection_basics.test.iml" filepath="$PROJECT_DIR$/.idea/modules/inspection_basics.test.iml" />
     </modules>
   </component>
 </project>
