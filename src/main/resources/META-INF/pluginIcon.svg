@@ -1,0 +1,68 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 81 80" width="81" height="80">
+	<title>pluginIcon-svg</title>
+	<defs>
+		<linearGradient id="g1" x1="7.7" y1="726.5" x2="908.5" y2="726.5" gradientUnits="userSpaceOnUse">
+			<stop offset=".3" stop-color="#f97a12"/>
+			<stop offset=".5" stop-color="#b07b58"/>
+			<stop offset=".7" stop-color="#577bae"/>
+			<stop offset=".9" stop-color="#1e7ce5"/>
+			<stop offset="1" stop-color="#087cfa"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="539.5" y1="1421.7" x2="1552.6" y2="3186.7" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#f97a12"/>
+			<stop offset=".1" stop-color="#cb7a3e"/>
+			<stop offset=".2" stop-color="#9e7b6a"/>
+			<stop offset=".2" stop-color="#757b91"/>
+			<stop offset=".3" stop-color="#537bb1"/>
+			<stop offset=".4" stop-color="#387ccc"/>
+			<stop offset=".5" stop-color="#237ce0"/>
+			<stop offset=".7" stop-color="#147cef"/>
+			<stop offset=".8" stop-color="#0b7cf7"/>
+			<stop offset="1" stop-color="#087cfa"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="610.1" y1="1899.5" x2="409.1" y2="-119.5" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#fe315d"/>
+			<stop offset=".1" stop-color="#cb417e"/>
+			<stop offset=".2" stop-color="#9e4e9b"/>
+			<stop offset=".2" stop-color="#755bb4"/>
+			<stop offset=".3" stop-color="#5365ca"/>
+			<stop offset=".4" stop-color="#386ddb"/>
+			<stop offset=".5" stop-color="#2374e9"/>
+			<stop offset=".7" stop-color="#1478f3"/>
+			<stop offset=".8" stop-color="#0b7bf8"/>
+			<stop offset="1" stop-color="#087cfa"/>
+		</linearGradient>
+		<linearGradient id="g4" x1="860.1" y1="995.9" x2="3165.2" y2="5440.2" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#fe315d"/>
+			<stop offset="0" stop-color="#f63462"/>
+			<stop offset=".1" stop-color="#df3a71"/>
+			<stop offset=".2" stop-color="#c24383"/>
+			<stop offset=".3" stop-color="#ad4a91"/>
+			<stop offset=".5" stop-color="#755bb4"/>
+			<stop offset=".9" stop-color="#1d76ed"/>
+			<stop offset="1" stop-color="#087cfa"/>
+		</linearGradient>
+		<image width="128" height="128" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAAA3NCSVQICAjb4U/gAAAACXBIWXMAAAN2AAADdgF91YLMAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAeBQTFRF//////8AgP+Apthkpthkqv9Vv7+Amcxmpthkttttn99gpthkquNxs8xmotFdpthkqtVqpthkpthkn99gpthkptlmpthkqtthptNkqtVgpthkp9hipthkp9xhqtVmp9dopthkqNdlo9hipNthpNdmpthkp9tjqNllp9pmptdiptlmpthkpthkptZkpthkqNdipthkpdlkpthkptdjp9hlpdhkptdlpthkp9hkpthlptdkpdhlpthkp9ljpthkpthkp9hjpdhkptljpthkp9hlpdhkp9lkptdlp9hkpdhlpthkp9ljp9djpthjpdhlpddkpthkptljptdlpthkpthkp9lkpthkpthlpthkpthkpthkpthkpthjptlkp9llpdhkpthkpthkp9lkptdjpthkpthkpthkpdhkpthkpthkpthkptdkp9hkpthkpthkpthkptdkpdhkpthkpthkpthkptdkpthkpthkpthjpthkp9hkpthkpthkpthkptdkpthkpthlpthkptdlpthkpthjp9lkpthkpthkp9hkpthjpdhkpthkpthkpthkpthkpthkpthkpthkpthkpthkpdhkpthkpthkpthkpthkpthkpthkpthkpthkpthkpthkpthkVTZ1ugAAAJ90Uk5TAAECAgMDBAUHBwgICQoLDAwODxAQFBUVFxgaGh0dHiAlJicqLS4xNTc5PD5ERUZGSEpKTU5PU1RUVllbXF1gYWJjZGVoaWttbm9wcXR2d3p7foGEhYWIiYqMjY+QkpOXmJmZmpuepKWoq62usLW2uLu8vb/AwcHCw8TExsvMztDQ09XV2tvc3d7f4eLj5enq7O3x8vX19vf4+fr7/P3++i3e8gAABAxJREFUeNrtmldbE0EYhScERJFEBaWjoCAiXZp0FVAhVEHBhjSVDkZBQSxUEcRKkQiZv6qEDVOyq1nnm0cv5tztOZM5Lwk72c0OQn4pdWjBEYr8VqhjYSgVASr0M8bYafN3uM35a/jnUECAYoxNEHj6MS4GBDi5bYJA698+CfkZ9GK/CbR+3AvZjw708wTR5wqutz8eX1wcf9x+veBcNN/ffwBJJIh1TGNOrxyxMvtpgvDLzh2sox3n5XB5/YTg/RY21NZ7ef2E4M+S0+8/gax+hE588af/ywlZ/UkL/r0DC0ly+ovX/P0fWCuW0X8Nm9A1+P4qbEpV0P2X3OYA3Jdg+1N+YJP6kQLZb5/HpjVvBwTooSZ2zX4z6vw266KOeuD688is3+sPoYC8Vb361bwAdKj+OzHywJbgJTJptcdJdvn2u5I9UTVxlqCW5Aoy5wfLnvXIF+DRXmL5QKwKmP4gagUe0rxaX4BaLRqi1uQgEIAyqmVK81p8AVq0aIryykAAZqgZNzzXXSjgtS/A6wBPFLtBeTMQ/YlMzajnmvCG3llwYzexjTJeIgBAHVuz6Mi44tRfBpxXMhyLrFUHAPACC+iFeH/kjgjATqQwQBEWUpEwQJMYQJMwwEMxgIfCAM/FAJ4LA6yKAayK9ge7xQDcwYIAR7GgjgoCWE4JyoKUlEwqKrfxYjw5PHxLUIfJXPEXG3Oj/lB/9u3e9WyG1zguehoe986UsXdt/fbs7865Bu/ltvt+CCxAyH3viuZqMD4zHdQLu2EBuinLYdR/ZpN+ZQ4kQA5tbZ4xAHjKfo1Y4AAs7FfaU/3+EO5+6zQcwGnWc4XoAqRyLy2BAyjhTP2HGdXcqDY4gDbOrNYF4O/37sEB3OPMWgWgABSAAlAACkABKAAFoAAUgAJQAApAASgABfB/AtRwo+7CAdzlzBpdgHw9TBgA/s3N1wWI5kadhwM4z5nR+j+VLjODtu1wAPZtxls2+K34KjOqA8EBoA7Gu2oAYBmjBs3bIAFs9FasMcMHBvFk2CdtKxjU84KUT+RPi0eGsj/QBg16Nx6APbKJHNSMB7/fY5baPLzy5GbW/nGYKEDY/lRZN5+sDDeb3fVvXRfrX7ciQU2LAUyL9utt2jKjWmEA66RI/6TwJ4DQwdaNv63faD2IIGRNyMz+pTvc9M+y9/WMi+7smpkJVgSqcq6lj0R9XFSOZEgBKAAFoAAUgAJQAArgnwOkcy23SXSbi9KlABzjNtgWkqiQTdzHpACgObYmjiRxbDInpx9VMi0DdDTARJWSANAIVfIxgk4iPlLRiKx+FPOO3HReYKML5Cb2XYw0AHSkUyt5mcBHCS+1qPMIkqm09omvb7pKA32TwNKuN18n2tNMTvgTxDHprC7MCHAAAAAASUVORK5CYII="/>
+		<image  width="45" height="36" id="img2" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC0AAAAkCAMAAAAqy0NgAAAAAXNSR0IB2cksfwAAAK5QTFRF////////AAAA////////////////////////////////////////////////////////////////////////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4G4VJgAAADp0Uk5TED8AQP/PwIDvMPBgUN+woCDQcK/gn2+QF7EOhpikPpcrkxABESmHLiGNgn0Do3DKc58NOlAEiX5ZxayBnBkAAAEnSURBVHic7dLbUsIwEAbg5G+kB7UNKghUEGyLVEAFQeH9X8xsEjradpxceUUump3Nl2a7KWOcBgNgIs7srHO1wTxB40ItmUh4dhZex8xK+TZjNXEXfQqDUEc+HUjeo4MjFVzC8A4lqo2K1zWuVHCtCAvsdq3jSPOGBhXja5Kg0n4Y6eIbWlJeykBE7IeG7Jp6aho3KrxNbL7SYN1WDdOYO9tvxntC9LgEi61mvK+Cvr2d0PTu1+3odyZmrvptBLUsRlPjvk1DlShPuvkz/DHO+qz/SQ+Gw4GjHqUP48lk/JiOXPR09pQBWT6buuhiTs9nzAsXvShR4GWJcuGiV2u8vr0D65WLxmabfQDbTXOlTe+W9JXlzk3vP9M8T7/2bho4HI+Htjy+AUmIGjlA475gAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		.s0 { fill: url(#g1) } 
+		.s1 { fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: url(#g4) } 
+		.s4 { fill: #000000 } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" class="s0" d="m14.1 72l-6.1-4.9v-32.3l30 11.9-19.9 25.3z"/>
+			<path id="Layer" class="s1" d="m29 72l31.3-32.1-14.6-31.4 0.4-0.5h25.9v64z"/>
+			<path id="Layer" class="s2" d="m42.4 8h29.6v28l-15 16-15-43.6z"/>
+			<path id="Layer" class="s3" d="m38.3 72h-30.3v-14l6.2-20.7-6.2-2.1v-27.2h39.5l18.5 21.4-27.5 42.5z"/>
+		</g>
+		<g id="Layer">
+			<path id="Layer" class="s4" d="m12 12h56v56h-56z"/>
+			<use id="android (1)" href="#img1" transform="matrix(.25,0,0,.25,24,33)"/>
+			<use id="NIV" href="#img2" x="18" y="19"/>
+		</g>
+	</g>
+</svg>
