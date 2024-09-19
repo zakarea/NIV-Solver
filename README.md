@@ -3,7 +3,7 @@ Solve next-intent vulnerability on Android source code.
 
 ![Build](https://github.com/zakarea/NIV-Solver/blob/main/src/main/resources/META-INF/pluginIcon.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/11059-extra-icons.svg)](https://plugins.jetbrains.com/plugin/25369-android-nesting-intents)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/25369-android-nesting-intents)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/11057-extra-icons.svg)](https://plugins.jetbrains.com/plugin/25369-android-nesting-intents)
 
 ## Template ToDo list
 - [ ] Create a new [IntelliJ Platform Plugin Template][template] project.
